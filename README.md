@@ -1,9 +1,11 @@
 # Deep Learning Coursework Submission
 
-**Student Name:** Gurdarshan Singh
-**Roll Number:** 102303217
-**Institution:** Thapar Institute of Engineering & Technology (TIET)
-**Instructor:** Sukhpal Singh
+**Student Name:** Gurdarshan Singh  
+**Roll Number:** 102303217  
+**Institution:** Thapar Institute of Engineering & Technology (TIET)  
+**Instructor:** Sukhpal Singh  
+
+## Repository Contents
 
 ## Repository Contents
 
