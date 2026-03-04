@@ -8,6 +8,4 @@
 ## Repository Contents
 
 * **`/Coursera_DL`**: Contains my verified Certificate of Completion and quiz screenshots for the "Fundamentals of Deep Learning" module.
-
-### Certificate of Completion
-![Fundamentals of Deep Learning Certificate](Coursera_DL/Fundamentals_of_Deep_Learning_Certificate.png)
+* **`/Assignments`**: Contains my Python notebook submissions for the course labs.
